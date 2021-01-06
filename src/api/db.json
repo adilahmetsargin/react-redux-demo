@@ -1,0 +1,81 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 2,
+      "productName": "Chai",
+      "quantityPerUnit": "48 - 6 oz jars",
+      "unitPrice": "23",
+      "unitsInStock": 53
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "productName": "Chang",
+      "quantityPerUnit": "48 - 6 oz jars",
+      "unitPrice": "55",
+      "unitsInStock": 17
+    },
+    {
+      "id": 3,
+      "categoryId": 1,
+      "productName": "Tang",
+      "quantityPerUnit": "48 - 6 oz jars",
+      "unitPrice": "36",
+      "unitsInStock": 57
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "productName": "Mank",
+      "quantityPerUnit": "48 - 6 oz jars",
+      "unitPrice": "32",
+      "unitsInStock": 55
+    },
+    {
+      "id": 5,
+      "categoryId": 2,
+      "productName": "Lank",
+      "quantityPerUnit": "48 - 6 oz jars",
+      "unitPrice": "29",
+      "unitsInStock": 97
+    },
+    {
+      "id": 6,
+      "categoryId": 2,
+      "productName": "Xang",
+      "quantityPerUnit": "48 - 6 oz jars",
+      "unitPrice": "53",
+      "unitsInStock": 77
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "categoryId": 2,
+      "productName": "A1",
+      "unitPrice": "52",
+      "quantityPerUnit": "33",
+      "unitsInStock": "1",
+      "id": 9
+    },
+    {
+      "id": 10
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Beverages",
+      "seoUrl": "beverages"
+    },
+    {
+      "id": 2,
+      "categoryName": "Condiments",
+      "seoUrl": "condiments"
+    }
+  ]
+}
